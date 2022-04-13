@@ -81,11 +81,11 @@ Nous pouvons noter aussi la présence de nos modules dont les schématiques et l
 
 ### 2.3 Création du PCB 
 
-- Après avoir fini la schématique et créer les empreintes des différents composants qui n'étaient pas disponibles dans les librairies de Kicad, nous avons pu commencer à créer notre PCB en organisant les composants sur le Shield. Nous avons ensuite procéder au routage, pour au final avoir le PCB ci-dessous :
+Après avoir fini la schématique et créer les empreintes des différents composants qui n'étaient pas disponibles dans les librairies de Kicad, nous avons pu commencer à créer notre PCB en organisant les composants sur le Shield. Nous avons ensuite procéder au routage, pour au final avoir le PCB ci-dessous :
 
 <img width="1119" alt="PCB" src="https://user-images.githubusercontent.com/98756781/163233127-a283cf14-b479-43d0-925e-681a7dbba952.png">
 
-- Visualisation 3D du shield 
+- Visualisation 3D du shield :
 
 <img width="1119" alt="PCB_3D_2" src="https://user-images.githubusercontent.com/98756781/163233176-00b62a34-27b5-43b2-bbe8-2fa7eec47cfb.png">
 
