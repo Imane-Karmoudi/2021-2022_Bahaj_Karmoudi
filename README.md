@@ -63,6 +63,8 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 ## 3. Code Arduino
 
+Ci-joint notre code complet : [Code_Projet_Capteur](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/tree/main/Code_Projet_Capteur) 
+
 ### 3.1 Librairies utilisées
 
 ### 3.2 Le code
@@ -73,7 +75,7 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 ## 6. Datasheet
 
-- [La datasheet](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/blob/main/Datasheet.pdf) détaille les différentes caractéristiques du capteur 
+- Ci-joint la Datasheet détaillant les différentes caractéristiques du capteur [Datasheet](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/blob/main/Datasheet.pdf) 
 
 ## 7. Contact
 
