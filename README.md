@@ -55,7 +55,7 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 ### 2.1 Empreintes des composants
 
-![Capteur](images/OLED.png)
+![Capteur]("C:\Users\karmo\OneDrive\Bureau\2021-2022_Bahaj_Karmoudi\Images capteur\OLED.png")
 
 
 ### 2.2 Schématique
