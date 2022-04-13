@@ -81,7 +81,7 @@ Nous pouvons noter aussi la présence de nos modules dont les schématiques et l
 
 ### 2.3 Création du PCB 
 
-Après avoir fini la schématique et créer les empreintes des différents composants qui n'étaient pas disponibles dans les librairies de Kicad, nous avons pu commencer à créer notre PCB en organisant les composants sur le Shield. Nous avons ensuite procéder au routage, pour au final avoir le PCB ci-dessous :
+Après avoir fini la schématique et créer les empreintes des différents composants qui n'étaient pas disponibles dans les librairies de Kicad, nous avons pu commencer à créer notre PCB en organisant les composants sur le Shield. Nous avons ensuite procéder au routage pour au final avoir le PCB ci-dessous :
 
 <img width="1119" alt="PCB" src="https://user-images.githubusercontent.com/98756781/163233127-a283cf14-b479-43d0-925e-681a7dbba952.png">
 
@@ -95,6 +95,11 @@ Après avoir fini la schématique et créer les empreintes des différents compo
 Ci-joint notre code complet : [Code_Projet_Capteur](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/tree/main/Code_Projet_Capteur) 
 
 ## 4. Application Bluetooth
+
+L'application conçue nous permet tout d'abord de détecter si la connexion avec notre PCB est établie ou non, puis de recevoir sur notre smartphone la valeur de la tension délivré par le capteur ainsi que la valeur de la résistance à ses bornes. En plus de nous afficher en temps réel la valeur de ces deux grandeurs, l'application trace un graphique de la variation de la résitance en fonction du temps. 
+
+[CodeAPK]
+
 
 ## 5. Banc de test
 
