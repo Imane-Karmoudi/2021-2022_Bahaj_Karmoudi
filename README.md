@@ -55,6 +55,7 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 ### 2.1 Empreintes des composants
 
+![Capteur](images/OLED.png)
 
 
 ### 2.2 Schématique
@@ -78,4 +79,9 @@ Ci-joint notre code complet : [Code_Projet_Capteur](https://github.com/Imane-Kar
 - Ci-joint la Datasheet détaillant les différentes caractéristiques du capteur [Datasheet](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/blob/main/Datasheet.pdf) 
 
 ## 7. Contact
+
+Pour toutes questions ou informations supplémentaires concernant notre projet, je vous invite à nous contacter par mail : 
+
+- Imane Karmoudi : karmoudi@insa-toulouse.fr
+- Fatima Ezzahra Bahaj : Bahaj@insa-toulouse.fr
 
