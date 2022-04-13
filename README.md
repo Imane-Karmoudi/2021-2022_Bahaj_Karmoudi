@@ -14,8 +14,8 @@ Durant ce projet, nous avons été amenés à concevoir un capteur à jauge de c
       - [1.1 Matériel requis](#11-Matériel-requis)
       - [1.2 Livrables](#12-Livrables)
   - [2. Kicad](#2-Kicad)
-      - [2.1 Schématique](#22-Schématique)
-      - [2.2 Empreintes des composants](#21-Empreintes-des-composants)
+      - [2.1 Schématique complète](#22-Schématique)
+      - [2.2 Schématique et empreinte des composants](#21-Schématique-et-empreinte-des-composants)
       - [2.3 Création du PCB](#23-Création-du-PCB)
   - [3. Code Arduino](#3-code-arduino)
   - [4. Application Bluetooth](#4-application-Bluetooth)
@@ -51,15 +51,32 @@ Les livrables du projet sont comme suit :
 
 Kicad est un logiciel de conception pour l'électronique qui a permis dans notre cas de créer le Shield pour la carte Arduino UNO. Toutes nos empreintes et plans de notre shield sont disponibles dans [notre-git] (penser à mettre le site)
 
-### 2.1 Schématique
+### 2.1 Schématique complète
 
-Ci-dessous, la schématique complète de notre circuit
+Ci-dessous, la schématique complète de notre circuit : 
 
 <img width="1119" alt="Circuit_Global" src="https://user-images.githubusercontent.com/98756781/163234310-c5dac24e-6cb2-4641-828d-029fb318ab58.png">
 
-Nous pouvons noter aussi la présence de nos modules dont les empreintes seront détaillés dans la section d'après.
+Nous pouvons noter aussi la présence de nos modules dont les schématiques et les empreintes seront détaillés dans la section d'après.
 
-### 2.2 Empreintes des composants
+### 2.2 Schématique et empreinte des composants
+
+<img width="284" alt="Bluetooth" src="https://user-images.githubusercontent.com/98756781/163250546-80f8b965-5fe9-45e8-9498-64a52b3f48bd.png">
+
+<img width="409" alt="Bluetooth_empreinte" src="https://user-images.githubusercontent.com/98756781/163250585-1ead2f99-e559-4900-90e3-f02ed3c5cdf7.png">
+
+<img width="187" alt="Encodeur" src="https://user-images.githubusercontent.com/98756781/163250597-e179f560-ac60-469c-b39b-23e5a3a0cb32.png">
+
+<img width="409" alt="Encodeur_empreinte" src="https://user-images.githubusercontent.com/98756781/163250618-e03651a0-fc67-4e6c-9edf-e04009fa2306.png">
+
+<img width="266" alt="OLED" src="https://user-images.githubusercontent.com/98756781/163250638-e178ca9e-4439-4205-b3ee-b066b4fda9b2.png">
+
+<img width="389" alt="OLED_empreinte" src="https://user-images.githubusercontent.com/98756781/163250654-5d32f72d-84d2-456b-aad5-503e6f83ce70.png">
+
+<img width="266" alt="LT1050" src="https://user-images.githubusercontent.com/98756781/163250668-7eefca14-919f-42c7-ac00-781d0aa0e27e.png">
+
+<img width="391" alt="LT1050_empreinte" src="https://user-images.githubusercontent.com/98756781/163250681-a060f38c-9687-40f6-8cae-5fa2e911b794.png">
+
 
 ### 2.3 Création du PCB 
 
