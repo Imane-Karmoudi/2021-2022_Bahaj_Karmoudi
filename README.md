@@ -62,6 +62,13 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 ### 2.3 Création du PCB 
 
+<img width="598" alt="PCB" src="https://user-images.githubusercontent.com/98756781/163233127-a283cf14-b479-43d0-925e-681a7dbba952.png">
+
+<img width="473" alt="PCB_3D_1" src="https://user-images.githubusercontent.com/98756781/163233151-0f145c0d-9d6b-4d51-9478-93de700f7607.png">
+
+<img width="480" alt="PCB_3D_2" src="https://user-images.githubusercontent.com/98756781/163233176-00b62a34-27b5-43b2-bbe8-2fa7eec47cfb.png">
+
+
 ## 3. Code Arduino
 
 Ci-joint notre code complet : [Code_Projet_Capteur](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/tree/main/Code_Projet_Capteur) 
