@@ -61,7 +61,7 @@ Nous pouvons noter aussi la présence de nos modules dont les schématiques et l
 
 ### 2.2 Schématique et empreinte des composants
 
-<img width="284" alt="Bluetooth" src="https://user-images.githubusercontent.com/98756781/163250546-80f8b965-5fe9-45e8-9498-64a52b3f48bd.png">
+<img width="409" alt="Bluetooth" src="https://user-images.githubusercontent.com/98756781/163250546-80f8b965-5fe9-45e8-9498-64a52b3f48bd.png">
 
 <img width="409" alt="Bluetooth_empreinte" src="https://user-images.githubusercontent.com/98756781/163250585-1ead2f99-e559-4900-90e3-f02ed3c5cdf7.png">
 
