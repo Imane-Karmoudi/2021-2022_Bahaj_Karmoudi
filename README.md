@@ -14,12 +14,10 @@ Durant ce projet, nous avons été amenés à concevoir un capteur à jauge de c
       - [1.1 Matériel requis](#11-Matériel-requis)
       - [1.2 Livrables](#12-Livrables)
   - [2. Kicad](#2-Kicad)
-      - [2.1 Empreintes des composants](#21-Empreintes-des-composants)
-      - [2.2 Schématique](#22-Schématique)
+      - [2.1 Schématique](#22-Schématique)
+      - [2.2 Empreintes des composants](#21-Empreintes-des-composants)
       - [2.3 Création du PCB](#23-Création-du-PCB)
   - [3. Code Arduino](#3-code-arduino)
-      - [3.1 Librairies utilisées](#31-Librairies-utilisées)
-      - [3.2 Le code](#32-Le-code)
   - [4. Application Bluetooth](#4-application-Bluetooth)
   - [5. Banc de test](#5-Banc-de-test)
   - [6. Datasheet](#6-datasheet)
@@ -53,18 +51,19 @@ Les livrables du projet sont comme suit :
 
 Kicad est un logiciel de conception pour l'électronique qui a permis dans notre cas de créer le Shield pour la carte Arduino UNO. Toutes nos empreintes et plans de notre shield sont disponibles dans [notre-git] (penser à mettre le site)
 
-### 2.1 Empreintes des composants
+### 2.1 Schématique
 
-![Capteur]("C:\Users\karmo\OneDrive\Bureau\2021-2022_Bahaj_Karmoudi\Images capteur\OLED.png")
+Ci-dessous, la schématique complète de notre circuit
 
+<img width="1119" alt="Circuit_Global" src="https://user-images.githubusercontent.com/98756781/163234310-c5dac24e-6cb2-4641-828d-029fb318ab58.png">
 
-### 2.2 Schématique
+Nous pouvons noter aussi la présence de nos modules dont les empreintes seront détaillés dans la section d'après.
+
+### 2.2 Empreintes des composants
 
 ### 2.3 Création du PCB 
 
 <img width="598" alt="PCB" src="https://user-images.githubusercontent.com/98756781/163233127-a283cf14-b479-43d0-925e-681a7dbba952.png">
-
-<img width="473" alt="PCB_3D_1" src="https://user-images.githubusercontent.com/98756781/163233151-0f145c0d-9d6b-4d51-9478-93de700f7607.png">
 
 <img width="480" alt="PCB_3D_2" src="https://user-images.githubusercontent.com/98756781/163233176-00b62a34-27b5-43b2-bbe8-2fa7eec47cfb.png">
 
@@ -73,17 +72,13 @@ Kicad est un logiciel de conception pour l'électronique qui a permis dans notre
 
 Ci-joint notre code complet : [Code_Projet_Capteur](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/tree/main/Code_Projet_Capteur) 
 
-### 3.1 Librairies utilisées
-
-### 3.2 Le code
-
 ## 4. Application Bluetooth
 
 ## 5. Banc de test
 
-## 6. Datasheet
+## 6. Datasheet 
 
-- Ci-joint la Datasheet détaillant les différentes caractéristiques du capteur [Datasheet](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/blob/main/Datasheet.pdf) 
+Ci-joint la Datasheet détaillant les différentes caractéristiques du capteur : [Datasheet](https://github.com/Imane-Karmoudi/2021-2022_Bahaj_Karmoudi/blob/main/Datasheet.pdf) 
 
 ## 7. Contact
 
