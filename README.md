@@ -61,21 +61,21 @@ Nous pouvons noter aussi la présence de nos modules dont les schématiques et l
 
 ### 2.2 Schématique et empreinte des composants
 
-<img width="409" alt="Bluetooth" src="https://user-images.githubusercontent.com/98756781/163250546-80f8b965-5fe9-45e8-9498-64a52b3f48bd.png">
+<img width="300" alt="Bluetooth" src="https://user-images.githubusercontent.com/98756781/163250546-80f8b965-5fe9-45e8-9498-64a52b3f48bd.png">
 
-<img width="409" alt="Bluetooth_empreinte" src="https://user-images.githubusercontent.com/98756781/163250585-1ead2f99-e559-4900-90e3-f02ed3c5cdf7.png">
+<img width="300" alt="Bluetooth_empreinte" src="https://user-images.githubusercontent.com/98756781/163250585-1ead2f99-e559-4900-90e3-f02ed3c5cdf7.png">
 
-<img width="187" alt="Encodeur" src="https://user-images.githubusercontent.com/98756781/163250597-e179f560-ac60-469c-b39b-23e5a3a0cb32.png">
+<img width="300" alt="Encodeur" src="https://user-images.githubusercontent.com/98756781/163250597-e179f560-ac60-469c-b39b-23e5a3a0cb32.png">
 
-<img width="409" alt="Encodeur_empreinte" src="https://user-images.githubusercontent.com/98756781/163250618-e03651a0-fc67-4e6c-9edf-e04009fa2306.png">
+<img width="300" alt="Encodeur_empreinte" src="https://user-images.githubusercontent.com/98756781/163250618-e03651a0-fc67-4e6c-9edf-e04009fa2306.png">
 
-<img width="266" alt="OLED" src="https://user-images.githubusercontent.com/98756781/163250638-e178ca9e-4439-4205-b3ee-b066b4fda9b2.png">
+<img width="300" alt="OLED" src="https://user-images.githubusercontent.com/98756781/163250638-e178ca9e-4439-4205-b3ee-b066b4fda9b2.png">
 
-<img width="389" alt="OLED_empreinte" src="https://user-images.githubusercontent.com/98756781/163250654-5d32f72d-84d2-456b-aad5-503e6f83ce70.png">
+<img width="300" alt="OLED_empreinte" src="https://user-images.githubusercontent.com/98756781/163250654-5d32f72d-84d2-456b-aad5-503e6f83ce70.png">
 
-<img width="266" alt="LT1050" src="https://user-images.githubusercontent.com/98756781/163250668-7eefca14-919f-42c7-ac00-781d0aa0e27e.png">
+<img width="300" alt="LT1050" src="https://user-images.githubusercontent.com/98756781/163250668-7eefca14-919f-42c7-ac00-781d0aa0e27e.png">
 
-<img width="391" alt="LT1050_empreinte" src="https://user-images.githubusercontent.com/98756781/163250681-a060f38c-9687-40f6-8cae-5fa2e911b794.png">
+<img width="300" alt="LT1050_empreinte" src="https://user-images.githubusercontent.com/98756781/163250681-a060f38c-9687-40f6-8cae-5fa2e911b794.png">
 
 
 ### 2.3 Création du PCB 
